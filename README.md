@@ -1,4 +1,4 @@
-# Introduction to Spring AI
+# Introduction to Spring AI W
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
 
